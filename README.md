@@ -6,4 +6,4 @@ I am a fullstack web developer who can use:
 
 
 
-- 🔭 I’m currently working on [Codentake](https://codentake.vercel.app)
+🔭 I’m currently working on [Codentake](https://codentake.vercel.app)
