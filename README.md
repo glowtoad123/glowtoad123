@@ -1,5 +1,5 @@
 # Alonzo Austin
-I am a fullstack web developer who can use:
+I am a fullstack web developer/debugger who can use:
 - Reactjs
 - Nextjs
 - Expressjs (view engine: EJS)
